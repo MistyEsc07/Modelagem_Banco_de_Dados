@@ -1,0 +1,33 @@
+# Configuracoes de editores
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporarios e backups
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Logs
+*.log
+
+# Arquivos de ambiente e credenciais
+.env
+.env.*
+!.env.example
+secrets.json
+credentials.json
+
+# Arquivos temporarios de banco de dados
+*.sqlite
+*.sqlite3
+*.db
+
+# Arquivos de cache
+.cache/
